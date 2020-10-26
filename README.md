@@ -13,3 +13,7 @@ https://drive.google.com/file/d/1HbRQ-KfoNUsA10z-1MAV33TAAc4bNN2K/view?usp=shari
 #react-material-icon
 
 https://drive.google.com/file/d/1BlpeCI4tUQiMeHc60FWnZD6tOWloklu6/view?usp=sharing
+
+
+#angular_retail_us_demo
+https://drive.google.com/file/d/152F979bTz0tuccKBoA4Xh5HOJqeJHrD-/view?usp=sharing
